@@ -1,6 +1,6 @@
 # react-flags-select
 
-A React library that provides a customizable SVG flags select components and standalone SVG flags components.
+This repository is a fork. A React library that provides a customizable SVG flags select components and standalone SVG flags components.
 
 ## Demo and Example
 
