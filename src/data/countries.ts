@@ -92,6 +92,7 @@ export const countries: Countries = {
   IS: "Iceland",
   IN: "India",
   ID: "Indonesia",
+  IX: "International",
   IR: "Iran, Islamic Republic of",
   IQ: "Iraq",
   IE: "Ireland",
@@ -222,5 +223,4 @@ export const countries: Countries = {
   YE: "Yemen",
   ZM: "Zambia",
   ZW: "Zimbabwe",
-  INTL: "International",
 };
